@@ -1,4 +1,4 @@
-package com.example.payflow
+package br.com.skilrrel.payflow
 
 import io.flutter.embedding.android.FlutterActivity
 

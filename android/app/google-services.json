@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "623717431648",
+    "project_id": "payflow-skilrrel",
+    "storage_bucket": "payflow-skilrrel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623717431648:android:61e6b9227cdd29ea608605",
+        "android_client_info": {
+          "package_name": "br.com.skilrrel.payflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623717431648-26sfbiqhgrhtnm83he28j27mg6265n7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.skilrrel.payflow",
+            "certificate_hash": "66f659317dd1fe4a17f70e8b6b5eb5a72110aa95"
+          }
+        },
+        {
+          "client_id": "623717431648-93oour6e3h46kulfnkegqlsf5gjoumk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZAMAgKGlMFF6MncM3otpJ0CgjxcyZNZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623717431648-93oour6e3h46kulfnkegqlsf5gjoumk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
